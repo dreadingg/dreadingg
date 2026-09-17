@@ -22,22 +22,21 @@
 
 ### featured projects
 
-#### [My Project Name](https://github.com/dreadingg/YOUR_REPO_NAME)
-**Short description** — *Creator*
+#### [fun lil project](https://github.com/dreadingg/dreadd)
+**just unblocked links from school ran off an HTML site, works well, over 2.5 mil links if any web gets blocked on there** — *Creator is Dreadingg.*
 
-A brief sentence about what this project does and what you learned making it.
-- Key feature 1
-- Key feature 2
-- Key feature 3
+i just started this as a lil fun thing to do in school as i could pass the time, but I gave it to like 10+ people and now i update it once in a while since everything is fine rn.
+- Hides the unblocked web in the github page page (none of the link shown, harder to be blocked.)
+- Not down all the time *cough cough, artic.*
+- Ran by me, i know, best proxy runner ever lmk lmk
 
 <br>
 
-#### [Another Project](https://github.com/dreadingg/YOUR_REPO_NAME)
-**Short description** — *Creator*
+#### [Another Project i Work On.](https://github.com/dreadingg/testing)
+**Short description, just testing stuff abt unblocked things.** — *Creator - me obv.*
 
-A brief sentence about what this project does.
-- Key feature 1
-- Key feature 2
+A brief sentence about what this project does is that it's literally just a testing ground 4 me.
+- Key features? only thing cool is the javascript ngl
 
 ---
 
