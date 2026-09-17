@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/dreadingg/dreadingg/main/Picsart_26-09-16_22-46-57-831.png" alt="fall 14 the coder" width="100%">
 </p>
 
-### about
+### About
 14-year-old developer makin things. currently working on **my own projects**. learning **Java and C++**.
 
 🌐 [treadingg@proton.me](mailto:treadingg@proton.me) • 🐙 [dreadingg](https://github.com/dreadingg)
 
 ---
 
-### core skills
+### Core skills - C.S
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,java,cpp,git,github,vscode,pytorch,docker,linux,nodejs,fastapi,postgres,sqlite,redis,arduino,electron,vite,apple&theme=dark" alt="core skills" />
@@ -23,7 +23,7 @@
 
 ---
 
-### featured projects
+### Featured projects
 
 #### [fun lil project](https://github.com/dreadingg/dreadd)
 **just unblocked links from school ran off an HTML site, works well, over 2.5 mil links if any web gets blocked on there** — *Creator is Dreadingg.*
@@ -44,7 +44,7 @@ A brief sentence about what this project does is that it's literally just a test
 
 ---
 
-### activity
+### MYYYY ativity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreadingg&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
