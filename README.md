@@ -12,14 +12,14 @@
 ### Core skills - C.S
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,java,cpp,git,github,vscode,pytorch,docker,linux,nodejs,fastapi,postgres,sqlite,redis,arduino,electron,vite,apple&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=html,java,cpp,git,github,vscode,pytorch,docker,linux,nodejs,fastapi,postgres,sqlite,redis,arduino,electron&theme=dark" alt="core skills" />
 </p>
 
 - **languages**: HTML • Java • C++
 - **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
 - **backend**: FastAPI • Node.js • Express • REST APIs • RPC
 - **databases**: SQLite • PostgreSQL • Redis
-- **tools & hardware**: Arduino / ESP32 • Git • Docker • Linux • Apple Silicon / Metal • Vite • Electron
+- **tools & hardware**: Arduino / ESP32 • Git • Docker • Linux • Electron
 
 ---
 
