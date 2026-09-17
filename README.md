@@ -12,11 +12,14 @@
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,java,cpp,git,github,vscode&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=html,java,cpp,git,github,vscode,pytorch,docker,linux,nodejs,fastapi,postgres,sqlite,redis,arduino,electron,vite,apple&theme=dark" alt="core skills" />
 </p>
 
 - **languages**: HTML • Java • C++
-- **tools**: Git • GitHub • VS Code
+- **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
+- **backend**: FastAPI • Node.js • Express • REST APIs • RPC
+- **databases**: SQLite • PostgreSQL • Redis
+- **tools & hardware**: Arduino / ESP32 • Git • Docker • Linux • Apple Silicon / Metal • Vite • Electron
 
 ---
 
@@ -37,6 +40,7 @@ i just started this as a lil fun thing to do in school as i could pass the time,
 
 A brief sentence about what this project does is that it's literally just a testing ground 4 me.
 - Key features? only thing cool is the javascript ngl
+
 
 ---
 
